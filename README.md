@@ -27,7 +27,7 @@ You must also ensure that all of the libraries imported by the Jupyter notebook 
 pip install requirements.txt 
 ```
 
-Now go back to your home directory and start your Jupyter Notebook
+Now go back to your home directory and start your Jupyter Notebook.
 
 5. Start Jupyter notebook on your greenflash machine:
 ```
